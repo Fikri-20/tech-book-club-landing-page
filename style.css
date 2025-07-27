@@ -1,0 +1,105 @@
+:root {
+  /* 🎨 Colors – Neutral */
+  --clr-neutral-900: #062630;
+  --clr-neutral-700: #385159;
+  --clr-neutral-200: #e6e1df;
+  --clr-neutral-100: #faf5f3;
+  --clr-neutral-0: #ffffff;
+
+  /* 🎨 Colors – Light Salmon */
+  --clr-salmon-500: #fea36f;
+  --clr-salmon-100: #ffe2d1;
+  --clr-salmon-50: #fff5ef;
+
+  /* 🌈 Gradients */
+  --clr-gradient-text: linear-gradient(107deg, #ff9a60 -11.37%, #062630 61.84%);
+  --clr-gradient-bg: linear-gradient(90deg, #ffe2d1 0%, #fff5ef 100%);
+
+  /* 🖋️ Typography */
+
+  /* Text Preset 1 */
+  --ff-preset-1: "Martian Mono", monospace;
+  --fs-preset-1: 3.875rem; /* 62px */
+  --lh-preset-1: 120%;
+  --let-spc-preset-1: -0.125rem; /* -2px */
+
+  /* Text Preset 1 Mobile */
+  --fs-preset-1-mob: 2.375rem; /* 38px */
+
+  /* Text Preset 2 */
+  --ff-preset-2: "Martian Mono", monospace;
+  --fs-preset-2: 3.125rem; /* 50px */
+  --lh-preset-2: 130%;
+  --let-spc-preset-2: -0.125rem;
+
+  /* Text Preset 2 Mobile */
+  --fs-preset-2-mob: 2.125rem; /* 34px */
+
+  /* Text Preset 3 */
+  --ff-preset-3: "Martian Mono", monospace;
+  --fs-preset-3: 2.125rem; /* 34px */
+  --lh-preset-3: 130%;
+  --let-spc-preset-3: -0.0625rem; /* -1px */
+
+  /* Text Preset 3 Mobile */
+  --fs-preset-3-mob: 1.5rem; /* 24px */
+  --lh-preset-3-mob: 110%;
+
+  /* Text Preset 4 (Semibold) */
+  --ff-preset-4: "Martian Mono", monospace;
+  --fs-preset-4: 1.5rem; /* 24px */
+  --lh-preset-4: 110%;
+  --let-spc-preset-4: -0.0625rem;
+
+  /* Text Preset 4 Regular */
+  --ff-preset-4-reg: "Martian Mono", monospace;
+
+  /* Text Preset 5 (Regular + SemiBold) */
+  --ff-preset-5: "Inter", sans-serif;
+  --fs-preset-5: 1.25rem; /* 20px */
+  --lh-preset-5: 140%;
+  --let-spc-preset-5: -0.03125rem; /* -0.5px */
+
+  /* Text Preset 6 */
+  --ff-preset-6: "Martian Mono", monospace;
+  --fs-preset-6: 1.125rem; /* 18px */
+  --lh-preset-6: 130%;
+  --let-spc-preset-6: -0.0625rem;
+
+  /* Text Preset 6 Mobile */
+  --fs-preset-6-mob: 1rem; /* 16px */
+
+  /* Text Preset 7 */
+  --ff-preset-7: "Martian Mono", monospace;
+  --fs-preset-7: 0.875rem; /* 14px */
+  --lh-preset-7: 120%;
+  --let-spc-preset-7: -0.0625rem;
+
+  /* 📏 Spacing */
+  --spc-0: 0;
+  --spc-025: 0.125rem; /* 2px */
+  --spc-050: 0.25rem; /* 4px */
+  --spc-075: 0.375rem; /* 6px */
+  --spc-100: 0.5rem; /* 8px */
+  --spc-150: 0.75rem; /* 12px */
+  --spc-200: 1rem; /* 16px */
+  --spc-250: 1.25rem; /* 20px */
+  --spc-300: 1.5rem; /* 24px */
+  --spc-400: 2rem; /* 32px */
+  --spc-500: 2.5rem; /* 40px */
+  --spc-600: 3rem; /* 48px */
+  --spc-800: 4rem; /* 64px */
+  --spc-1000: 5rem; /* 80px */
+
+  /* 🟢 Radius */
+  --radius-0: 0;
+  --radius-4: 0.25rem; /* 4px */
+  --radius-6: 0.375rem; /* 6px */
+  --radius-8: 0.5rem; /* 8px */
+  --radius-10: 0.625rem; /* 10px */
+  --radius-12: 0.75rem; /* 12px */
+  --radius-16: 1rem; /* 16px */
+  --radius-20: 1.25rem; /* 20px */
+  --radius-24: 1.5rem; /* 24px */
+  --radius-full: 999px;
+}
